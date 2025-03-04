@@ -1,0 +1,126 @@
+{
+  "Driver": {
+    "Face-On": {
+      "Takeaway": {
+        "ShoulderTurn": "5-15°",
+        "SpineAngle": "5-10°"
+      },
+      "Early Backswing": {
+        "ShoulderTurn": "15-40°",
+        "SpineAngle": "8-12°"
+      },
+      "Top of Backswing": {
+        "ShoulderTurn": "80-110°",
+        "SpineAngle": "10-20°"
+      },
+      "Transition": {
+        "ShoulderTurn": "70-100°",
+        "SpineAngle": "10-18°"
+      },
+      "Downswing": {
+        "ShoulderTurn": "30-60°",
+        "SpineAngle": "12-20°"
+      },
+      "Impact": {
+        "ShoulderTurn": "25-50°",
+        "SpineAngle": "15-25°"
+      },
+      "Follow-Through": {
+        "ShoulderTurn": "70-120°",
+        "SpineAngle": "5-15°"
+      }
+    },
+    "Down-the-Line": {
+      "Takeaway": {
+        "ShoulderTurn": "5-15°",
+        "SpineAngle": "30-40°"
+      },
+      "Early Backswing": {
+        "ShoulderTurn": "15-40°",
+        "SpineAngle": "35-45°"
+      },
+      "Top of Backswing": {
+        "ShoulderTurn": "80-110°",
+        "SpineAngle": "38-48°"
+      },
+      "Transition": {
+        "ShoulderTurn": "70-100°",
+        "SpineAngle": "35-45°"
+      },
+      "Downswing": {
+        "ShoulderTurn": "30-60°",
+        "SpineAngle": "35-45°"
+      },
+      "Impact": {
+        "ShoulderTurn": "25-50°",
+        "SpineAngle": "30-40°"
+      },
+      "Follow-Through": {
+        "ShoulderTurn": "70-120°",
+        "SpineAngle": "30-45°"
+      }
+    }
+  },
+  "Iron": {
+    "Face-On": {
+      "Takeaway": {
+        "ShoulderTurn": "5-10°",
+        "SpineAngle": "3-8°"
+      },
+      "Early Backswing": {
+        "ShoulderTurn": "15-35°",
+        "SpineAngle": "6-10°"
+      },
+      "Top of Backswing": {
+        "ShoulderTurn": "70-95°",
+        "SpineAngle": "10-15°"
+      },
+      "Transition": {
+        "ShoulderTurn": "65-90°",
+        "SpineAngle": "10-18°"
+      },
+      "Downswing": {
+        "ShoulderTurn": "30-50°",
+        "SpineAngle": "12-18°"
+      },
+      "Impact": {
+        "ShoulderTurn": "25-45°",
+        "SpineAngle": "12-20°"
+      },
+      "Follow-Through": {
+        "ShoulderTurn": "70-100°",
+        "SpineAngle": "5-15°"
+      }
+    },
+    "Down-the-Line": {
+      "Takeaway": {
+        "ShoulderTurn": "5-15°",
+        "SpineAngle": "30-40°"
+      },
+      "Early Backswing": {
+        "ShoulderTurn": "15-35°",
+        "SpineAngle": "35-45°"
+      },
+      "Top of Backswing": {
+        "ShoulderTurn": "70-95°",
+        "SpineAngle": "38-48°"
+      },
+      "Transition": {
+        "ShoulderTurn": "65-90°",
+        "SpineAngle": "35-45°"
+      },
+      "Downswing": {
+        "ShoulderTurn": "30-50°",
+        "SpineAngle": "35-45°"
+      },
+      "Impact": {
+        "ShoulderTurn": "25-45°",
+        "SpineAngle": "30-40°"
+      },
+      "Follow-Through": {
+        "ShoulderTurn": "70-100°",
+        "SpineAngle": "30-45°"
+      }
+    }
+  }
+}

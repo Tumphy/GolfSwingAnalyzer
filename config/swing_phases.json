@@ -1,0 +1,11 @@
+{
+    "SwingPhases": {
+        "0": "Takeaway",
+        "1": "Early Backswing",
+        "2": "Top of Backswing",
+        "3": "Transition",
+        "4": "Downswing",
+        "5": "Impact",
+        "6": "Follow-Through"
+    }
+}
